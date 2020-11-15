@@ -1,0 +1,46 @@
+[{
+ "id": "1",
+ "date": "01.02.2013",
+ "quarter":"Q1",
+ "customer": "Customer 1",
+ "region": "West",
+ "product": "Product 1",
+ "quantity":"15",
+ "revenue": "$1,530"
+},{
+  "id": "2",
+ "date": "01.02.2013",
+ "quarter":"Q1",
+ "customer": "Customer 2",
+ "region": "West",
+ "product": "Product 2",
+ "quantity":"15",
+ "revenue": "$1,530"
+},{
+    "id": "3",
+ "date": "01.02.2013",
+ "quarter":"Q1",
+ "customer": "Customer 3",
+ "region": "West",
+ "product": "Product 3",
+ "quantity":"15",
+ "revenue": "$1,530"
+},{
+    "id": "4",
+ "date": "01.02.2013",
+ "quarter":"Q1",
+ "customer": "Customer 4",
+ "region": "West",
+ "product": "Product 4",
+ "quantity":"15",
+ "revenue": "$1,530"
+},{
+    "id": "5",
+ "date": "01.02.2013",
+ "quarter":"Q1",
+ "customer": "Customer 5",
+ "region": "West",
+ "product": "Product 5",
+ "quantity":"15",
+ "revenue": "$1,530"
+}]
